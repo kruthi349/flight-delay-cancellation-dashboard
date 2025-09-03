@@ -17,23 +17,7 @@ It provides insights into:
 * `airlines.csv` → Airline information (carrier codes and names)
 * `airports.csv` → Airport information (IATA codes, names, locations)
 * `cancellation_codes.csv` → Mapping of cancellation codes to reasons
-* (Large dataset `flights.csv` not included here due to size – see below)*
-
----
-
-🚀 How to Use
-
-1. Clone the Repository
-
-```bash
-git clone https://github.com/kruthi349/flight-delays-and-cancellation-dashboard.git
-cd flight-delays-and-cancellation-dashboard
-```
-
-2. Open the Dashboard
-
-* Install Power BI Desktop
-* Open the file: `flight delays and cancellation.pbix`
+* (Large dataset `flights.csv` not included here due to size – see below)
 
 📊 Dashboard Features
 
